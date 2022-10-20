@@ -2,10 +2,8 @@ function playPom () {
     document.querySelector('#som_tecla_pom').play();
 }
 
-document.querySelector('.tecla_pom').onclick = playPom;
+const keyList = document.querySelectorAll('.tecla')
 
-function playClap () {
-    document.querySelector('#som_tecla_clap').play();
-}
+keyList[0].onclick = playPom;
 
-document.querySelector('.tecla_clap').onclick = playClap;
+
