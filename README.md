@@ -1,25 +1,19 @@
 ### JavaScript para Web: Crie páginas dinâmicas
     Curso da Formação: Iniciante em programação, #Alura
 
-### Conteúdos abordados na AULA 04:
+### Anotações da AULA 05:
 
 ###
-    - Percorrendo uma lista:
-    Como percorrer uma lista usando a estrutura de repetição 
-    while, a criar referências variáveis com let, e como incrementar 
-    o valor de uma variável, e criar uma condição para evitar o loop 
-    infinito, também conhecemos o atributo length contido nas listas 
-    que nos ajudou a obter dinamicamento o valor do tamanho de uma lista.
+    - Eventos no teclado:
+    O que são eventos do teclado e como usá-los: onkeydowne onkeyup. Como adicionar 
+    e remover classes em um elemento HTML através do JavaScript, com as funções add 
+    e remove do classList.
 
-    - Função com parâmetros:
-    Como declarar e utilizar parâmetros dentro de uma função que criamos, e 
-    o que é uma função anônima e o retorno undefined de uma função.
+    - Condições no código e operadores lógicos:
+    O que é o objeto event, como declarar e acessar ele através do parâmetro de uma 
+    função atrelada a um evento. A estrutura condicional if e para que ele serve, além 
+    de conhecer o operador de igualdade ==, estritamente igual (===), e o operador or (||).
 
-    - Textos dinâmicos:
-    Como criar textos dinâmicos utilizando template string e como acessar
-     as classes de um elemento através do atributo classList.
-
-    - Repetição otimizada com For:
-    Como é a estrutura de repetição for e como ela pode nos ajudar com um 
-    código mais limpo, além da forma de incrementar um valor de variável com
-    o operador ++.
+    - Mais condições:
+    A estruturas condicionais if e else juntas. O operador not equals (!=), operador 
+    lógico and (&&) e o valor null.
